@@ -1,5 +1,5 @@
 ## <div id="header" align="center">
-  <img src="https://i.ibb.co/hdG0BNL/1685262794314-removebg-preview.png" height="200" width="300"/>
+  <img src="https://i.ibb.co/hdG0BNL/1685262794314-removebg-preview.png" height="200" width="200"/>
 </div>
 💫 About Me:
 
