@@ -1,7 +1,8 @@
-# <div id="header" align="center">
+## <div id="header" align="center">
   <img src="https://i.ibb.co/hdG0BNL/1685262794314-removebg-preview.png" width="100"/>
 </div>
-##💫 About Me:
+#💫 About Me:
+
 🖐🏻Hi, this is Gourab Roy.<br>👨🏻‍🎓BSc. In Computer Science & Engineering.<br>👌🏻MERN stack developer.<br>👨🏻‍🚀A web-development enthusiast.<br>🏃🏻‍♂️A passionate, and fast learner.<br>🌍 Dhaka, Bangladesh.
 
 
