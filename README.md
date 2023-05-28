@@ -1,3 +1,6 @@
+# <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 # 💫 About Me:
 🖐🏻Hi, this is Gourab Roy.<br>👨🏻‍🎓BSc. In Computer Science & Engineering.<br>👌🏻MERN stack developer.<br>👨🏻‍🚀A web-development enthusiast.<br>🏃🏻‍♂️A passionate, and fast learner.<br>🌍 Dhaka, Bangladesh.
 
